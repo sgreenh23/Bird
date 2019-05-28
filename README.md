@@ -2,8 +2,9 @@
 
 ## Project Planning
 
+Goal:
 
-Making a bird 
+Making a bird, with a raspberry pi on it, that will flap it's wings, know when it's at it's top altitude, and measure it's own acceleration. 
 
 http://students.iitk.ac.in/aeromodelling/downloads/rubber_band_ornithopter.pdf
 https://makezine.com/projects/make-08/building-an-ornithopter/
