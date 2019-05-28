@@ -1,5 +1,6 @@
 # Bird
 
+##Project Planning
 Making a bird 
 http://students.iitk.ac.in/aeromodelling/downloads/rubber_band_ornithopter.pdf
 https://makezine.com/projects/make-08/building-an-ornithopter/
@@ -47,8 +48,6 @@ Actually use tent stakes
 Maybe fiberglass tent things- light and strong\
 Carbon fiber rods
 Bamboo rods
-
-
 
 
 
