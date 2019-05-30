@@ -114,6 +114,8 @@ Laser-Cut Beads
 Lots of Super Glue
 Lots of Hot Glue
 Thick Wire
+Spray Paint
+Feathers (if we want to decorate and have time)
 
 
 ## Wiring
