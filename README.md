@@ -141,6 +141,9 @@ Feathers (if we want to decorate and have time)
 ## Process
 
 ![Bird Dimensions Drawing for Design](images/IMG_0469.jpg)
+This is our original sketch of the design we want for our bird and the dimensions. In it you can see the cuts and placement of the pi basket in the middle of the bird which is where our pi, altimeter, battery and powerboost will reside. Now we just need to transfer this design into solidworks. 
+
+![bird frame](images/IMG_1001.jpg)
 
 ![original](images/IMG_0950.jpg)
 
