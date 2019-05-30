@@ -4,7 +4,7 @@
 
 Goal:
 
-Making a bird, with a raspberry pi on it, that will flap it's wings, know when it's at it's top altitude, and measure it's own acceleration. 
+Making a bird, with a raspberry pi on it, that will flap it's wings, know when it's at it's top altitude, and measure it's own acceleration. When the bird is at it's highest altitude, and LED will light up. 
 
 http://students.iitk.ac.in/aeromodelling/downloads/rubber_band_ornithopter.pdf
 
@@ -78,6 +78,42 @@ Body: 14 inches long
 ## Resources and Constraints
 
 We don't have a whole lot of time left to work on this project, especially since seniors leave earlier than the rest of the school. However, we have access to a lot of resources with everything in the sigma lab, and we can also bring stuff from home for our project. One problem is that the only bird that has ever been made that can actually flap it's wings and fly is from an actual big company, and so it will be very difficult to figure out how to make our bird actually work. 
+
+After much brainstorming, we decided to make a bird because nobody else has ever done it and we figured that it will be adorable. We were also considering creating a rocket or cannon, but we didn't want to do the same thing as everybody else and wanted to challenge ourselves.  However, with this decision we realize that our goal is very ambitious and it is very possible the bird will never work. For us this is worth the risk, because we don't want to do something easier since it will be more boring, and we want to be unique. Our biggest challenge in making the bird will be getting the wings to flap and for the bird to actually fly. The bird needs to be light enough so that it isn't weighed down, however it also needs to be strong enough for the wings to flap and be able to lift the bird up.
+
+### First Step
+
+Our first step is to make a rubber band ornithopter. While this is not our goal, since we ideally want our birds wings to be powered by servos, this will help us better understand how our bird will fly, and help us figure out the best aerodynamic materials to use as well as a good bird design for everything to fit. 
+
+### Materials
+
+We are not exactly sure of what materials we will use yet, and will figure this out as we go by testing different materials for our first prototype. 
+
+#### Prototype Materials
+
+Balsa Wood
+Tissue Paper
+Wire
+Laser-Cut Beads
+Plastic
+
+#### Final Bird Materials (Not yet decided, to be experimented with)
+
+Raspberry Pi
+Altimeter
+Battery
+Wires
+LED
+Powerboost
+Tent stakes
+Tent Material
+Balsa Wood, or maybe a more durable wood
+Shrink Wrap (The plastic that can be melded to something with the heat tool) - this was really useful
+Acrylic
+Laser-Cut Beads
+Lots of Super Glue
+Lots of Hot Glue
+Thick Wire
 
 
 ## Wiring
