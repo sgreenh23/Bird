@@ -147,6 +147,7 @@ This is our original sketch of the design we want for our bird and the dimension
 This is a smaller version of our bird frame, after being laser-cutted out of wood. The cuts in it are where the pi basket will hang down from, and the wings will come out from either side of the frame. 
 
 ![original](images/IMG_0950.jpg)
+This is a picture of our bird wings, after we constructed them and attached them to the bird frame. Originally, the little wood square on them was nonexistent. We added this as a little pouch, since we were attaching our wings to the frame with the wire. We didn't want to directly glue the wire straight from the frame to the wing, because then we wouldn't be able to move it around. We needed the wire to be movable so that the wings could flap and not be fixed, which is why we glued the wire directly to the frame, and then made a pouch on the wing for it so it could move back and forth along the wing, allowing the wing to move up and down. Our wire is not a straight wire, and is instead shapped like a U. With this shape, when the wire is rotated by the servo, instead of the wings staying still they will move up and down. In addition, we created gears to attach to the wire, as a way to connect the servo to the wire. Originally we had two gears of the same size, but then redesigned them to make one bigger. This will allow for one of the gears to move faster, so that when the servo moves the first gear, the second gear will move faster and allow the wings to flap faster.
 
 ![1](images/IMG_0959.jpg)
 
