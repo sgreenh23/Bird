@@ -144,6 +144,7 @@ Feathers (if we want to decorate and have time)
 This is our original sketch of the design we want for our bird and the dimensions. In it you can see the cuts and placement of the pi basket in the middle of the bird which is where our pi, altimeter, battery and powerboost will reside. Now we just need to transfer this design into solidworks. 
 
 ![bird frame](images/IMG_1001.jpg)
+This is a smaller version of our bird frame, after being laser-cutted out of wood. The cuts in it are where the pi basket will hang down from, and the wings will come out from either side of the frame. 
 
 ![original](images/IMG_0950.jpg)
 
