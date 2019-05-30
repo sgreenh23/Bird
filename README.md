@@ -7,20 +7,29 @@ Goal:
 Making a bird, with a raspberry pi on it, that will flap it's wings, know when it's at it's top altitude, and measure it's own acceleration. 
 
 http://students.iitk.ac.in/aeromodelling/downloads/rubber_band_ornithopter.pdf
+
 https://makezine.com/projects/make-08/building-an-ornithopter/
-
-
 
 https://youtu.be/Pn5pPy9BX3w 
+
 https://www.revolvy.com/page/Ornithopter
+
 https://scioly.org/wiki/index.php/Flying_Bird
+
 https://youtu.be/AF4SqJF6PdA
+
 http://www.ornithopter.org/
+
 https://makezine.com/projects/make-08/building-an-ornithopter/
+
 http://www.ornithopter.org/how.1.shtml
+
 https://www.ornithopter.org/how.motor.shtml
+
 https://www.instructables.com/id/make-an-ornithopterchirothopter/
+
 http://www.the-nref.org/content/building-robotic-bird
+
 http://www.ornithopter.org/how.wing.shtml
 	
 
@@ -64,6 +73,11 @@ Use tent?
 
 Dimensions: 
 Body: 14 inches long
+
+
+## Resources and Constraints
+
+We don't have a whole lot of time left to work on this project, especially since seniors leave earlier than the rest of the school. However, we have access to a lot of resources with everything in the sigma lab, and we can also bring stuff from home for our project. One problem is that the only bird that has ever been made that can actually flap it's wings and fly is from an actual big company, and so it will be very difficult to figure out how to make our bird actually work. 
 
 
 ## Wiring
