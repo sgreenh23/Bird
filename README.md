@@ -138,5 +138,11 @@ Spray Paint
 Feathers (if we want to decorate and have time)
 
 
+## Process
+
+![Bird Dimensions Drawing for Design](images/IMG_0469.jpg)
+
+![bird wiring](images/fritzing_bb.png)
+
 ## Wiring
 ![bird wiring](images/fritzing_bb.png)
