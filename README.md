@@ -92,29 +92,49 @@ We are not exactly sure of what materials we will use yet, and will figure this 
 #### Prototype Materials
 
 Balsa Wood
+
 Tissue Paper
+
 Wire
+
 Laser-Cut Beads
+
 Plastic
 
 #### Final Bird Materials (Not yet decided, to be experimented with)
 
 Raspberry Pi
+
 Altimeter
+
 Battery
+
 Wires
+
 LED
+
 Powerboost
+
 Tent stakes
+
 Tent Material
+
 Balsa Wood, or maybe a more durable wood
+
 Shrink Wrap (The plastic that can be melded to something with the heat tool) - this was really useful
+
 Acrylic
+
 Laser-Cut Beads
+
 Lots of Super Glue
+
 Lots of Hot Glue
+
 Thick Wire
+
 Spray Paint
+
 Feathers (if we want to decorate and have time)
 
 
