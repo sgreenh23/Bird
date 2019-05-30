@@ -142,7 +142,17 @@ Feathers (if we want to decorate and have time)
 
 ![Bird Dimensions Drawing for Design](images/IMG_0469.jpg)
 
-![bird wiring](images/fritzing_bb.png)
+![original](images/IMG_0950.jpg)
+
+![1](images/IMG_0959.jpg)
+
+![2](images/IMG_0962.jpg)
+
+![3](images/IMG_0963.jpg)
+
+![4](images/IMG_0965.jpg)
+
+![5](images/IMG_0967.jpg)
 
 ## Wiring
 ![bird wiring](images/fritzing_bb.png)
