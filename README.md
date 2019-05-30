@@ -67,4 +67,4 @@ Body: 14 inches long
 
 
 ## Wiring
-
+![bird wiring](images/fritzing_bb.png)
