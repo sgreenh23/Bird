@@ -64,3 +64,7 @@ Use tent?
 
 Dimensions: 
 Body: 14 inches long
+
+
+## Wiring
+
