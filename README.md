@@ -141,7 +141,7 @@ Feathers (if we want to decorate and have time)
 ## Process
 
 ![Bird Dimensions Drawing for Design](images/IMG_0469.jpg)
-This is our original sketch of the design we want for our bird and the dimensions. In it you can see the cuts and placement of the pi basket in the middle of the bird which is where our pi, altimeter, battery and powerboost will reside. Now we just need to transfer this design into solidworks. 
+This is our original sketch of the design we want for our bird and the dimensions. In it you can see the cuts and placement of the pi basket in the middle of the bird which is where our pi, altimeter, battery and powerboost will reside. Now we just need to transfer this design into solidworks. In solidworks we first created the bird frame, which was an extremely difficult shape to make since it was made up of many arcs. This shape was altered many times to be cuter. After this we constructed the pi basket, which was eventually changed to be a single straight acrylic sheet to be lighter. With this, we made holes on the bottom to screw in the pi, altimeter and powerboost. We also made our gears, and then made an assembly with this all together to see how we would attach our wings and use the gears to make them flap. 
 
 ![bird frame](images/IMG_1001.jpg)
 This is a smaller version of our bird frame, after being laser-cutted out of wood. The cuts in it are where the pi basket will hang down from, and the wings will come out from either side of the frame. 
@@ -153,6 +153,7 @@ This is a picture of our bird wings, after we constructed them and attached them
 Our bird wasn't looking enough like a bird, so I decided to spray paint it so that it could be a cute little bluebird. We wore masks and goggles (for safety of course) and went outside to use the spray paint. This set us back a little bit because I had to let the spray paint dry before I could bring it back inside and continue working on the bird. However, since it's super hot outside the spray paint didn't take too long to dry. 
 
 ![2](images/IMG_0962.jpg)
+These are pictures of our bird after being spray painted. It is beginning to look more like a bird and is very adorable. 
 
 ![3](images/IMG_0963.jpg)
 
